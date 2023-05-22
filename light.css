@@ -1,6 +1,7 @@
 /* Container component */
 .card {
   /* Styles for container component */
+  box-shadow: 0px 0px;
 }
 
 /* Card number */

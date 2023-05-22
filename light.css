@@ -1,47 +1,35 @@
-/* Container component */
+:root {
+    --ok_gray: #d9d9d9; 
+}
+
 .card {
-  /* Styles for container component */
   box-shadow: 0px 0px transparent;
 }
 
-/* Card number */
 .card .pan {
-  color: red;
-  /* Styles for card number */
+  color: var(--ok_gray);
 }
 
-/* Copy button */
 .card .pan .copy-icon {
-  color: red;
-  /* Styles for copy button */
+  color: var(--ok_gray);
 }
 
-/* Cardholder */
 .card .name {
-  color: red;
-  /* Styles for cardholder */
+  color: var(--ok_gray);
 }
 
-/* Expiration date */
 .card .expiration-date {
-  color: red;
-  /* Styles for expiration date */
+  color: var(--ok_gray);
 }
 
-/* Security code */
 .card .security-code {
-  color: red;
-  /* Styles for security code */
+  color: var(--ok_gray);
 }
 
-/* Expiration date for dCVV */
 .card .cvv_expiration_time {
-  color: red;
-  /* Styles for expiration date for dCVV */
+  color: var(--ok_gray);
 }
 
-/* Pin number */
 .card .pin {
-  color: red;
-  /* Styles for pin number */
+  color: var(--ok_gray);
 }

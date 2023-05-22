@@ -1,35 +1,32 @@
-:root {
-    --ok_gray: #d9d9d9; 
-}
 
 .card {
   box-shadow: 0px 0px transparent;
 }
 
 .card .pan {
-  color: var(--ok_gray);
+  color: #d9d9d9;
 }
 
 .card .pan .copy-icon {
-  color: var(--ok_gray);
+  color: #d9d9d9;
 }
 
 .card .name {
-  color: var(--ok_gray);
+  color: #d9d9d9;
 }
 
 .card .expiration-date {
-  color: var(--ok_gray);
+  color: #d9d9d9;
 }
 
 .card .security-code {
-  color: var(--ok_gray);
+  color: #d9d9d9;
 }
 
 .card .cvv_expiration_time {
-  color: var(--ok_gray);
+  color: #d9d9d9;
 }
 
 .card .pin {
-  color: var(--ok_gray);
+  color: #d9d9d9;
 }

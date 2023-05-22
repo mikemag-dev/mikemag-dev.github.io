@@ -1,0 +1,47 @@
+/* Container component */
+.card {
+  /* Styles for container component */
+  box-shadow: 0px 0px transparent;
+}
+
+/* Card number */
+.card .pan {
+  color: red;
+  /* Styles for card number */
+}
+
+/* Copy button */
+.card .pan .copy-icon {
+  color: red;
+  /* Styles for copy button */
+}
+
+/* Cardholder */
+.card .name {
+  color: red;
+  /* Styles for cardholder */
+}
+
+/* Expiration date */
+.card .expiration-date {
+  color: red;
+  /* Styles for expiration date */
+}
+
+/* Security code */
+.card .security-code {
+  color: red;
+  /* Styles for security code */
+}
+
+/* Expiration date for dCVV */
+.card .cvv_expiration_time {
+  color: red;
+  /* Styles for expiration date for dCVV */
+}
+
+/* Pin number */
+.card .pin {
+  color: red;
+  /* Styles for pin number */
+}
